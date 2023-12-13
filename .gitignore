@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 lib/
 Include/
 Scripts/
 share/
-=======
 ##########################
 # KEDRO PROJECT
 
@@ -165,4 +163,3 @@ venv.bak/
 .mypy_cache/
 
 
->>>>>>> b9642d46e96c5951d0070621e3774a29fdeb2d17
